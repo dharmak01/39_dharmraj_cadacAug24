@@ -1,0 +1,19 @@
+ID, Name, Age, Gender, Occupation, City
+1, John Doe, 34, Male, Software Engineer, New York
+2, Jane Smith, 28, Female, Data Scientist, Los Angeles
+3, Peter Johnson, 45, Male, Doctor, Chicago
+4, Emily Davis, 32, Female, Architect, San Francisco
+5, Michael Brown, 50, Male, Teacher, Boston
+6, Sarah Wilson, 27, Female, Graphic Designer, Seattle
+7, David Lee, 37, Male, Marketing Manager, Miami
+8, Laura Taylor, 29, Female, Lawyer, Austin
+9, James Harris, 40, Male, Sales Executive, Denver
+10, Linda Martinez, 35, Female, Nurse, Houston
+11, Robert Clark, 46, Male, Engineer, Phoenix
+12, Maria Allen, 25, Female, Journalist, San Diego
+13, Charles King, 38, Male, Chef, Las Vegas
+14, Patricia Scott, 31, Female, Pharmacist, Orlando
+15, Thomas Wright, 29, Male, Graphic Designer, Atlanta
+16, Jessica Adams, 33, Female, Web Developer, Portland
+17, Steven Baker, 52, Male, Entrepreneur, Dall
+
